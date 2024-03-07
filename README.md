@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working trying to optimize the time spend on meetings.
+- 🌱 I’m currently learning about AI and possible uses.
+- ⚡ Fun fact: I like to do magic tricks 🪄.
+
+**Let's collaborate!**
+Feel free to reach out if you have any questions or want to discuss potential projects.
 
 <!--
 **phaeussler/phaeussler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
